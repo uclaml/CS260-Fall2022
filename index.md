@@ -10,16 +10,22 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
 
 ## Logistics
 <!--University of California, Los Angeles  -->
-- Time: **Monday and Wednesday 2:00PM - 3:50PM**
+- Time: **Monday and Wednesday 12:00PM - 1:50PM**
 - Location: **Online**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
-- Teaching Assistant: Yewen Wang (Email: wyw10804 at gmail dot com)
+- Teaching Assistant: 
+  - Zixiang Chen, Section 1A (Email: wyw10804 at gmail dot com)
+  - Jiafan He, Section 1B (Email: wyw10804 at gmail dot com)
+  - Lucas Tecot, Section 1C (Email: wyw10804 at gmail dot com)
    
 - Office hours: 
     - The instructor's office hour is Thursday 9:30am-10:30am, online. 
-    - The TA's office hour is Tuesday 9:00am-11:00am, online
+    - The TA's office hour is 
+      - Zixiang Chen, Tuesday 9:00am-11:00am, online
+      - Jiafan He, Tuesday 9:00am-11:00am, online
+      - Lucas Tecot, Tuesday 9:00am-11:00am, online
   
-- Course Website: [https://uclaml.github.io/CS260-Spring2020/](https://uclaml.github.io/CS260-Spring2020/)
+- Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
 - Course Forum: [piazza.com/ucla/spring2020/cs260/home](piazza.com/ucla/spring2020/cs260/home)
 (If you haven’t already, [sign up here](piazza.com/ucla/spring2020/cs260).)
 
@@ -33,12 +39,11 @@ Grades will be computed based on the following factors:
 
 ## Schedule
 
-
-| # | Date | Topics | Reading | Homework |
-| - | ---- | ------ | ------- | -------- |
-| 1 | 3/30 | Introduction ([slides](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
-| 2 | 4/1 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
-||4/3| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))|||
+| # | Date   |      Topics      |  Reading | Homework |
+|---- | ----------|-------------|------|---|
+| 1 | 9/27 | Introduction ([slides](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
+| 2 | 9/29 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
+||9/3| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))|||
 | 3 | 4/6 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/h61d32bdtkz5wem/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
 | 4 | 4/8 | Uniform Convergence ([slides](https://www.dropbox.com/s/tl3xxu117lmke5g/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/ryz8busg0iulnxa/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
 || 4/10 | TA Session Week 2 ([slides](https://www.dropbox.com/s/ah0c0gi9t3avtqa/Week2.pdf?dl=0))|||
