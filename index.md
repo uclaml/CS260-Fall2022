@@ -11,7 +11,7 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
 ## Logistics
 <!--University of California, Los Angeles  -->
 - Time: **Monday and Wednesday 12:00PM - 1:50PM**
-- Location: **Online**  
+- Location: **[Zoom](https://ucla.zoom.us/j/93701646138)**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
   - Zixiang Chen, Section 1A (Email: wyw10804 at gmail dot com)
@@ -26,8 +26,8 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
       - Lucas Tecot, Tuesday 9:00am-11:00am, online
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
-- Course Forum: [piazza.com/ucla/spring2020/cs260/home](piazza.com/ucla/spring2020/cs260/home)
-(If you haven’t already, [sign up here](piazza.com/ucla/spring2020/cs260).)
+- Course Forum: [piazza.com/ucla/fall2021/cs260/home](piazza.com/ucla/fall2021/cs260/home)
+(If you haven’t already, [sign up here](piazza.com/ucla/fall2021/cs260).)
 
 ## Grading Policy
  
@@ -44,30 +44,30 @@ Grades will be computed based on the following factors:
 | 1 | 9/27 | Introduction ([slides](https://www.dropbox.com/s/rnbu9c51bfne48o/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0) |
 | 2 | 9/29 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | |
 ||9/3| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))|||
-| 3 | 4/6 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/h61d32bdtkz5wem/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
-| 4 | 4/8 | Uniform Convergence ([slides](https://www.dropbox.com/s/tl3xxu117lmke5g/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/ryz8busg0iulnxa/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
-|| 4/10 | TA Session Week 2 ([slides](https://www.dropbox.com/s/ah0c0gi9t3avtqa/Week2.pdf?dl=0))|||
-| 5 | 4/13 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/ptngys3fue0ic2k/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/hraoue74uqwsbme/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | |
-| 6 | 4/15 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides_annotated](https://www.dropbox.com/s/ptmevztdjuzyezm/Lecture6a_annotated.pdf?dl=0))  | Chapter 6 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/w72l7xz131ke9t1/HW2.pdf?dl=0) |
-||4/17| TA Session Week 3 ([slides](https://www.dropbox.com/s/gmns3kg1dmii3j3/Week3.pdf?dl=0))|||
-| 7 | 4/20 | VC dimension Cont. ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/xc5unsqes2wk4lz/Lecture6b_annotated.pdf?dl=0))| Chapter 6, 28 | |
-| 8 | 4/22 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/r16kjfli9i9lguu/Lecture7.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/6eay3q56xx7mqw5/Lecture7_annotated.pdf?dl=0)) | Chapter 7 | |
-||4/24| TA Session Week 4 ([slides](https://www.dropbox.com/s/3mk1b1p3h38ishh/Week4.pdf?dl=0))|||
-| 9 | 4/27 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/na1gea5xtz83k70/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/lyt1z9htjda38uy/Lecture8_annotated.pdf?dl=0)) | Chapter 9 | |
-| 10 | 4/29 | Nearest Neighbors ([slides](https://www.dropbox.com/s/a3sz9r267h99xx7/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/amps5b3cual390n/Lecture9_annotated.pdf?dl=0)) | Chapter 19 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
-|| 5/1 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
-| 11 | 5/4 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/se1g3lo18se1392/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
-| 12 | 5/6 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
-||5/8| TA Session Week6 (slides on CCLE-Week6)|||
-| | 5/11 | Midterm Exam | | |
-| 13 | 5/13 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
-||5/15| TA Session Week7 (slides on CCLE-Week7)|||
-| 14 | 5/18 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
-| 15 | 5/20 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
-||5/22 | TA Session Week8 ([slides](https://www.dropbox.com/s/hp2x3ahron9c4ls/Week8.pdf?dl=0))|||
-| | 5/25 | Memorial Day Holiday | | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
-| 16 | 5/27 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
-||5/29| TA Session Week9 ([slides](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0))|||
+| 3 | 10/4 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/h61d32bdtkz5wem/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
+| 4 | 10/6 | Uniform Convergence ([slides](https://www.dropbox.com/s/tl3xxu117lmke5g/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/ryz8busg0iulnxa/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
+|| 10/8 | TA Session Week 2 ([slides](https://www.dropbox.com/s/ah0c0gi9t3avtqa/Week2.pdf?dl=0))|||
+| 5 | 10/11 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/ptngys3fue0ic2k/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/hraoue74uqwsbme/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | |
+| 6 | 10/13 | VC dimension ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides_annotated](https://www.dropbox.com/s/ptmevztdjuzyezm/Lecture6a_annotated.pdf?dl=0))  | Chapter 6 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/w72l7xz131ke9t1/HW2.pdf?dl=0) |
+||10/15| TA Session Week 3 ([slides](https://www.dropbox.com/s/gmns3kg1dmii3j3/Week3.pdf?dl=0))|||
+| 7 | 10/18 | VC dimension Cont. ([slides](https://www.dropbox.com/s/qho2fjrvivkkniv/Lecture6.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/xc5unsqes2wk4lz/Lecture6b_annotated.pdf?dl=0))| Chapter 6, 28 | |
+| 8 | 10/20 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/r16kjfli9i9lguu/Lecture7.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/6eay3q56xx7mqw5/Lecture7_annotated.pdf?dl=0)) | Chapter 7 | |
+||10/22| TA Session Week 4 ([slides](https://www.dropbox.com/s/3mk1b1p3h38ishh/Week4.pdf?dl=0))|||
+| 9 | 10/25 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/na1gea5xtz83k70/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/lyt1z9htjda38uy/Lecture8_annotated.pdf?dl=0)) | Chapter 9 | |
+| 10 | 10/27 | Nearest Neighbors ([slides](https://www.dropbox.com/s/a3sz9r267h99xx7/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/amps5b3cual390n/Lecture9_annotated.pdf?dl=0)) | Chapter 19 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
+|| 10/29 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
+| 11 | 11/1 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/se1g3lo18se1392/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
+| 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
+||11/5| TA Session Week 6 (slides on CCLE-Week6)|||
+| | 11/8 | Midterm Exam | | |
+| 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
+||11/12| TA Session Week7 (slides on CCLE-Week7)|||
+| 14 | 11/15 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
+| 15 | 11/17 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
+||11/19 | TA Session Week 8 ([slides](https://www.dropbox.com/s/hp2x3ahron9c4ls/Week8.pdf?dl=0))|||
+| | 11/22 | Memorial Day Holiday | | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
+| 16 | 11/24 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
+||5/29| TA Session Week 9 ([slides](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0))|||
 | 17 | 6/1 | Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))| Chapter 17 | |
 | 18 | 6/3 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22 |  |
 ||6/5| TA Session Week10 ([slides](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
