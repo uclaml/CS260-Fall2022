@@ -24,8 +24,8 @@ Python
 - Office hours: 
     - The instructor's office hour is Thursday 9:00am-10:00am, **[Zoom](https://ucla.zoom.us/j/93475216622)**. 
     - The TA's office hour is 
-      - Zixiang Chen, Tuesday 12:00pm-2:00pm, **[Zoom]()**.
-      - Jiafan He, Thursday 2:00pm-4:00pm, **[Zoom]()**.
+      - Zixiang Chen, Tuesday 12:00pm-2:00pm, **[Zoom](https://ucla.zoom.us/j/97892492653)**.
+      - Jiafan He, Thursday 2:00pm-4:00pm, **[Zoom](https://ucla.zoom.us/j/93911326319)**.
       - Lucas Tecot, Monday and Wednesday 10:00am-11:00am, **[Zoom]()**.
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
