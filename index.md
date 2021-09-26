@@ -5,8 +5,11 @@ This course introduces the foundational theory and algorithms of machine learnin
 ## Prerequisites
 Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs.
 
-## Textbook:
+## Textbook
 Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
+
+## Programming Language
+Python
 
 ## Logistics
 <!--University of California, Los Angeles  -->
@@ -19,11 +22,11 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
   - Lucas Tecot, Section 1C (Email: lucastecot at gmail dot com)
    
 - Office hours: 
-    - The instructor's office hour is Thursday 9:00am-10:00am, online. 
+    - The instructor's office hour is Thursday 9:00am-10:00am, **[Zoom](https://ucla.zoom.us/j/93475216622)**. 
     - The TA's office hour is 
-      - Zixiang Chen, Tuesday 9:00am-11:00am, online
-      - Jiafan He, Tuesday 9:00am-11:00am, online
-      - Lucas Tecot, Tuesday 9:00am-11:00am, online
+      - Zixiang Chen, Tuesday 12:00pm-2:00pm, **[Zoom]()**.
+      - Jiafan He, Thursday 2:00pm-4:00pm, **[Zoom]()**.
+      - Lucas Tecot, Monday and Wednesday 10:00am-11:00am, **[Zoom]()**.
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
 - Course Forum: [piazza.com/ucla/fall2021/cs260/home](piazza.com/ucla/fall2021/cs260/home)
@@ -32,6 +35,7 @@ Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From t
 ## Grading Policy
  
 Grades will be computed based on the following factors:
+
 - Homework 35%
 - Quiz 5%
 - Midterm 30%
@@ -72,7 +76,7 @@ Grades will be computed based on the following factors:
 | 18 | 12/1 | TBD |  |  |
 ||12/3| TA Session Week10 ([slides1](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0)) ([slides2](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
 | | 12/8 | Final Project Presentation | |  |
-| | 6/11 | | | Project Report Due |
+| | 12/12 | | | Project Report Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
