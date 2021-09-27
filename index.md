@@ -106,5 +106,5 @@ The best outcome of the project is a manuscript that is publishable in major mac
 
 Instruction can be found [here](https://www.dropbox.com/s/iq6ctshs91ea3ok/Instruction.pdf?dl=0), and template for proposal and final report can be found [here](https://www.dropbox.com/s/9i5kjaibbw58ghl/template.zip?dl=0).
 
-Please refer to [syllabus](https://www.dropbox.com/s/ahqrv1kj2pkgcn9/CS_260_Machine_Learning.pdf?dl=0) for more details.
+Please refer to [syllabus](https://www.dropbox.com/s/89u56o3rzr54asv/syllabus_CS260.pdf?dl=0) for more details.
 
