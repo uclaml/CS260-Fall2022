@@ -70,10 +70,10 @@ Grades will be computed based on the following factors:
 | 15 | 11/17 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
 ||11/19 | TA Session Week 8 ([slides](https://www.dropbox.com/s/hp2x3ahron9c4ls/Week8.pdf?dl=0))|||
 | 16 | 11/22 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
-||11/24| Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
+|17|11/24| Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
 ||11/26| Thanksgiving holidays|||
-| 17 | 11/29 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
-| 18 | 12/1 | TBD |  |  |
+| 18 | 11/29 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
+| 19 | 12/1 | TBD |  |  |
 ||12/3| TA Session Week10 ([slides1](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0)) ([slides2](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report Due |
