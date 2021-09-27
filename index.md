@@ -29,8 +29,8 @@ Python
       - Lucas Tecot, Monday and Wednesday 10:00am-11:00am, **[Zoom]()**.
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
-- Course Forum: [piazza.com/ucla/fall2021/cs260/home](piazza.com/ucla/fall2021/cs260/home)
-(If you haven’t already, [sign up here](piazza.com/ucla/fall2021/cs260).)
+- Course Forum: [https://piazza.com/ucla/fall2021/cs260/home](piazza.com/ucla/fall2021/cs260/home)
+(If you haven’t already, [sign up here](https://piazza.com/ucla/fall2021/cs260).)
 
 ## Grading Policy
  
