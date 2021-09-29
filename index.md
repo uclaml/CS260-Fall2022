@@ -46,7 +46,7 @@ Grades will be computed based on the following factors:
 | # | Date   |      Topics      |  Reading | Homework |
 |---- | ----------|-------------|------|---|
 | 1 | 9/27 | Introduction ([slides](https://www.dropbox.com/s/umb5cj22wktqxwq/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 |  |
-| 2 | 9/29 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | [HW1 Out](https://www.dropbox.com/s/fc0ek06bqvnndnk/HW1.pdf?dl=0)|
+| 2 | 9/29 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/qqz83tl4oovf2sx/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/5luo12khex046pg/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | [HW1 Out](https://www.dropbox.com/s/g31899cgztwdfov/HW1.pdf?dl=0)|
 ||10/1| TA Session Week 1 ([slides](https://www.dropbox.com/s/q3yrzly1a6b7o5r/Week1.pdf?dl=0))|||
 | 3 | 10/4 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/2hp40z7fpu9e79t/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/h61d32bdtkz5wem/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
 | 4 | 10/6 | Uniform Convergence ([slides](https://www.dropbox.com/s/tl3xxu117lmke5g/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/ryz8busg0iulnxa/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
