@@ -82,7 +82,7 @@ Grades will be computed based on the following factors:
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
 
 ## Homework
-There will be about 5 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. Homework is required to be written in Latex. Latex homework template can be found [here](https://www.dropbox.com/s/7h6aek1rd4aw9cv/CS260-hw-template.zip?dl=0). The lowest homework score will be dropped for you.
+There will be about 5 homework assignments during the semester as we cover the corresponding material. Homework consists of both mathematical derivation, algorithm analysis and programming. Homework is required to be written in Latex. Latex homework template can be found [here](https://www.dropbox.com/s/cbfagod4yq5zsdg/CS260-hw-template.zip?dl=0). The lowest homework score will be dropped for you.
 
 Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.
 
