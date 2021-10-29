@@ -59,7 +59,7 @@ Grades will be computed based on the following factors:
 ||10/22| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/oihdcz1z3vs2mxa/CS_260_TA_Session%20week4.pdf?dl=0))([1B slides](https://www.dropbox.com/s/2uafin21tcbv3uu/week4.pdf?dl=0))([1C slides](https://www.dropbox.com/s/65nffmshlr5omyp/week4.pdf?dl=0))|||
 | 9 | 10/25 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/188xqq39z3twhy2/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/7mns5vnoyr6nszc/Lecture7_annotated.pdf?dl=0)) | Chapter 9 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
 | 10 | 10/27 | Nearest Neighbors ([slides](https://www.dropbox.com/s/luuiqfsdhoi9hwi/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/sw6jqenwoxbvwpb/Lecture9_annotated.pdf?dl=0) | Chapter 19 |  |
-|| 10/29 | TA Session Week 5 ([slides](https://www.dropbox.com/s/5c45v8m1ceqx9gh/Week5.pdf?dl=0))|||
+|| 10/29 | TA Session Week 5 ([1C slides](https://www.dropbox.com/s/rt74nchcvmdfty4/week5.pdf?dl=0))|||
 | 11 | 11/1 | Decision Trees ([slides](https://www.dropbox.com/s/rlfcyuxsdj1qx74/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/se1g3lo18se1392/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
 | 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
 ||11/5| TA Session Week 6 (slides on CCLE-Week6)|||
