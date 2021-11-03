@@ -61,7 +61,7 @@ Grades will be computed based on the following factors:
 | 10 | 10/27 | Nearest Neighbors ([slides](https://www.dropbox.com/s/luuiqfsdhoi9hwi/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/sw6jqenwoxbvwpb/Lecture9_annotated.pdf?dl=0) | Chapter 19 |  |
 || 10/29 | TA Session Week 5 ([1A slides](https://www.dropbox.com/s/csdogq3bl2w3wvr/week5.pdf?dl=0))([1B slides](https://www.dropbox.com/s/mea55w6r56gd5xv/week5.pdf?dl=0))([1C slides](https://www.dropbox.com/s/rt74nchcvmdfty4/week5.pdf?dl=0))|||
 | 11 | 11/1 | Decision Trees ([slides](https://www.dropbox.com/s/82dlb50iky42ynu/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/kmpjvjnkvk2gpje/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
-| 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/04waxzju22snvm9/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
+| 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/ukgllfcqbpapefs/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/apnzqczrkjpuskt/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
 ||11/5| TA Session Week 6 (slides on CCLE-Week6)|||
 | | 11/8 | Midterm Exam | | |
 | 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
