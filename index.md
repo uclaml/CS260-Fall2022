@@ -64,7 +64,7 @@ Grades will be computed based on the following factors:
 | 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/znevp3vo3glsp3p/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/bcdfih6y9i7ttbc/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
 ||11/5| TA Session Week 6 (slides on CCLE-Week6) ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
 | | 11/8 | Midterm Exam | | |
-| 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/rbvq691ds5xvv4t/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
+| 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/fr7r20jfx2x3g2k/homework4.zip?dl=0) |
 ||11/12| TA Session Week7 (slides on CCLE-Week7)|||
 | 14 | 11/15 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 |  |
 | 15 | 11/17 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
