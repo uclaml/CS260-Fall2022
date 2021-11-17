@@ -66,14 +66,14 @@ Grades will be computed based on the following factors:
 | | 11/8 | Midterm Exam | | |
 | 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/hn5bih2mynzfwki/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
 ||11/12| TA Session Week7 ([1A slides](https://www.dropbox.com/s/qyb7ojm2eekdwvg/week7.pdf?dl=0))([1B slides](https://www.dropbox.com/s/374l2cnxtruh9ln/week7.pdf?dl=0))([1C slides](https://www.dropbox.com/s/p4h8fubjyux064c/week7.pdf?dl=0))|||
-| 14 | 11/15 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 |  |
-| 15 | 11/17 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
+| 14 | 11/15 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
+| 15 | 11/17 | Regularization Stability ([slides](https://www.dropbox.com/s/jiandf0d1fts4du/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 |  |
 ||11/19 | TA Session Week 8 ([slides](https://www.dropbox.com/s/hp2x3ahron9c4ls/Week8.pdf?dl=0))|||
-| 16 | 11/22 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
-|17|11/24| Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
+| 16 | 11/22 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
+| 17 | 11/24 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
 ||11/26| Thanksgiving holidays|||
-| 18 | 11/29 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
-| 19 | 12/1 | TBD |  |  |
+|18|11/29| Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
+| 19 | 12/1 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
 ||12/3| TA Session Week10 ([slides1](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0)) ([slides2](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report Due |
