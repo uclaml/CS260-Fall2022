@@ -69,8 +69,8 @@ Grades will be computed based on the following factors:
 | 14 | 11/15 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
 | 15 | 11/17 | Regularization Stability ([slides](https://www.dropbox.com/s/yr9boothmeyn5bb/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/czsqyq2dgwy3oo4/Lecture13_annotated.pdf?dl=0)) | Chapter 13 |  |
 ||11/19 | TA Session Week 8 ([1B slides](https://www.dropbox.com/s/bijb4ev7gahc0li/week%208.pdf?dl=0))([1C slides](https://www.dropbox.com/s/kdzihhzxcw4tncg/week8.pdf?dl=0))|||
-| 16 | 11/22 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | |
-| 17 | 11/24 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
+| 16 | 11/22 | Support Vector Machines ([slides](https://www.dropbox.com/s/syoeilzvdghw7jx/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5n2xnvhagkq1fdw/Lecture14_annotated.pdf?dl=0))| Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/8kv12pz2eejy78h/homework5.zip?dl=0) |
+| 17 | 11/24 | Kernel Methods ([slides](https://www.dropbox.com/s/wk08zpn7ya187gx/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/f1n3qu3k9wm03ty/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
 ||11/26| Thanksgiving holidays|||
 |18|11/29| Multi-class Classification ([slides](https://www.dropbox.com/s/iwwiefnwggptgo3/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/o2lcmvasw64wcbu/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
 | 19 | 12/1 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
