@@ -74,9 +74,10 @@ Grades will be computed based on the following factors:
 ||11/26| Thanksgiving holidays|||
 |18|11/29| Multi-class Classification ([slides](https://www.dropbox.com/s/tyt9om7na3mkc91/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/ruxbk3hysswru2r/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
 | 19 | 12/1 | Clustering ([slides](https://www.dropbox.com/s/pbtywmm9uge1h9e/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/rc133xdmyu89j3s/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
-||12/3| TA Session Week10 ([slides1](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0)) ([slides2](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | | HW5 Due |
+||12/3| TA Session Week10 ([slides1](https://www.dropbox.com/s/t2nbniblsm0dz5i/Week9.pdf?dl=0)) ([slides2](https://www.dropbox.com/s/5dpysyftmc15hob/Week10.pdf?dl=0)) | |  |
+| | 12/6 |  | | HW5 Due |
 | | 12/8 | Final Project Presentation | |  |
-| | 12/12 | | | Project Report Due |
+| | 12/12 | | | Project Report/Slides Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
