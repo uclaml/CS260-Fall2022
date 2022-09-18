@@ -1,12 +1,13 @@
 
 ## Overview
-This course introduces the foundational theory and algorithms of machine learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, nearest neighbors, decision trees, boosting, structural risk minimization, surrogate loss functions, stochastic gradient descent, support vector machines, kernel methods, multi-class classification, and clustering etc. Slides and homework assignments will be released on CCLE and this website. Homework solutions will only be released on CCLE.
+This course introduces the foundational concepts and algorithms of machine learning and deep learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, boosting, stochastic gradient descent, support vector machines, multi-layer perceptron, convolutional neural networks, recurrent neural networks, attention mechanism. Slides and homework assignments will be released on Bruinlearn and this website. Homework solutions will only be released on Bruinlearn.
 
 ## Prerequisites
-Two years of college mathematics, including calculus, linear algebra, probability and statistics, and the ability to write computer programs.
+Calculus, linear algebra, probability and statistics, and Python programming.
 
 ## Textbook
-Shalev-Shwartz, Shai, and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
+Shai Shalev-Shwartz and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
+Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola, Dive into Deep Learning. 
 
 ## Programming Language
 Python
@@ -22,7 +23,7 @@ Python
   - Lucas Tecot, Section 1C (Email: lucastecot at gmail dot com)
    
 - Office hours: 
-    - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 282. 
+    - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 382. 
     - The TA's office hour is 
       - Zixiang Chen, TBD.
       - Jiafan He, TBD
