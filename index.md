@@ -63,15 +63,15 @@ Grades will be computed based on the following factors:
 |  | 10/31 | Midterm | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
 | 11 | 11/2 | Multi-layer Perceptron I | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
 ||11/4| TA Session Week 6 (slides on CCLE-Week6) ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
-| 12 | 11/2 | Multi-layer Perceptron  II | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
-| 13 | 11/7 | Covolutional Neural Networks I | | |
-| 14 | 11/9 | Covolutional Neural Networks II | | |
+| 12 | 11/7 | Multi-layer Perceptron  II | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+| 13 | 11/9 | Covolutional Neural Networks I | | |
 ||11/11| TA Session Week7 ([1A slides](https://www.dropbox.com/s/qyb7ojm2eekdwvg/week7.pdf?dl=0))([1B slides](https://www.dropbox.com/s/374l2cnxtruh9ln/week7.pdf?dl=0))([1C slides](https://www.dropbox.com/s/p4h8fubjyux064c/week7.pdf?dl=0))|||
-| 14 | 11/11 | Recurrent Neural Networks I | | |
-| 15 | 11/16 | Recurrent Neural Networks II | | |
+| 14 | 11/14 | Covolutional Neural Networks II | | |
+| 15 | 11/16 | Recurrent Neural Networks I | | |
 ||11/18 | TA Session Week 8 ([1A slides](https://www.dropbox.com/s/blfxztrcy8kd8h5/week8.pdf?dl=0))([1B slides](https://www.dropbox.com/s/bijb4ev7gahc0li/week%208.pdf?dl=0))([1C slides](https://www.dropbox.com/s/kdzihhzxcw4tncg/week8.pdf?dl=0))|||
-|16  | 11/21 | Attention Mechanisms | | |
+| 16 | 11/21 | Recurrent Neural Networks II | | |
 ||11/23| Thanksgiving holidays|||
+|17  | 11/28 | Attention Mechanisms | | |
 ||12/2| TA Session Week10 ([1A slides](https://www.dropbox.com/s/nujqsnib0j3j9pw/week10.pdf?dl=0))([1B slides](https://www.dropbox.com/s/th42birwuuiubl8/week101B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/cqqb2mwilpq300q/week10.pdf?dl=0)) | |  |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report/Slides Due |
