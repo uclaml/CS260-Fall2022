@@ -13,8 +13,8 @@ Python
 
 ## Logistics
 <!--University of California, Los Angeles  -->
-- Time: **Monday and Wednesday 12:00PM - 1:50PM**
-- Location: **[Zoom](https://ucla.zoom.us/j/93701646138)**  
+- Time: **Monday and Wednesday 2:00PM - 3:50PM**
+- Location: **DODD 147**  
 - Instructor: [Quanquan Gu](http://web.cs.ucla.edu/~qgu/) (Email: qgu at cs dot ucla dot edu)   
 - Teaching Assistant: 
   - Zixiang Chen, Section 1A (Email: chenzx19 at cs dot ucla dot edu)
@@ -22,15 +22,15 @@ Python
   - Lucas Tecot, Section 1C (Email: lucastecot at gmail dot com)
    
 - Office hours: 
-    - The instructor's office hour is Thursday 9:00am-10:00am, **[Zoom](https://ucla.zoom.us/j/93475216622)**. 
+    - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 282. 
     - The TA's office hour is 
-      - Zixiang Chen, Tuesday 12:00pm-2:00pm, **[Zoom](https://ucla.zoom.us/j/97892492653)**.
-      - Jiafan He, Thursday 2:00pm-4:00pm, **[Zoom](https://ucla.zoom.us/j/93911326319)**.
-      - Lucas Tecot, Monday and Wednesday 10:00am-11:00am, **[Zoom]()**.
+      - Zixiang Chen, TBD.
+      - Jiafan He, TBD
+      - Lucas Tecot, TBD
   
-- Course Website: [https://uclaml.github.io/CS260-Fall2021/](https://uclaml.github.io/CS260-Fall2021/)
-- Course Forum: [https://piazza.com/ucla/fall2021/cs260/home](piazza.com/ucla/fall2021/cs260/home)
-(If you haven’t already, [sign up here](https://piazza.com/ucla/fall2021/cs260).)
+- Course Website: [https://uclaml.github.io/CS260-Fall2022/](https://uclaml.github.io/CS260-Fall2022/)
+- Course Forum: [https://piazza.com/ucla/fall2022/cs260/home](piazza.com/ucla/fall2021/cs260/home)
+(If you haven’t already, [sign up here](https://piazza.com/ucla/fall2022/cs260).)
 
 ## Grading Policy
  
@@ -45,37 +45,34 @@ Grades will be computed based on the following factors:
 
 | # | Date   |      Topics      |  Reading | Homework |
 |---- | ----------|-------------|------|---|
-| 1 | 9/27 | Introduction ([slides](https://www.dropbox.com/s/umb5cj22wktqxwq/Lecture1.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/qsx5ybu668zgsc3/Lecture1_annotated.pdf?dl=0)) | Chapter 1, 2.1 |  |
-| 2 | 9/29 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/oz92oe6w24x7q1a/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/0cc4m715l5pzjrr/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | [HW1 Out](https://www.dropbox.com/s/g31899cgztwdfov/HW1.pdf?dl=0)|
-||10/1| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/xt9krm4s4qjy4h8/Slides%28discussion1A%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/520b4ot1espxcq0/week1%20discussion%201B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/sn67z1e46ab9zrt/week1.pdf?dl=0))|||
-| 3 | 10/4 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/b1x1c9sdse2ieam/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/kwj44enab7l6omi/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
-| 4 | 10/6 | Uniform Convergence ([slides](https://www.dropbox.com/s/k7ehuaj5czpd1ds/Lecture4.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/95blynmlz49g5au/Lecture4_annotated.pdf?dl=0)) | Chapter 4 | |
-|| 10/8 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/5bp737g3g44hj8j/discussion1Aweek2.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/4o5pk11jo0wy3ev/week2.pdf?dl=0))|||
-| 5 | 10/11 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/v6i1cay016gr2ju/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/a18ybz1o1g5zhgm/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/uocco8rr9rcxilu/HW2.pdf?dl=0) |
-| 6 | 10/13 | VC dimension ([slides](https://www.dropbox.com/s/8zrhupcy3oxs5vx/Lecture6.pdf?dl=0)) ([slides_annotated](https://www.dropbox.com/s/yglvg67tx7qzzen/Lecture6_annotated.pdf?dl=0))  | Chapter 6 |  |
-||10/15| TA Session Week 3 ([1A slides](https://www.dropbox.com/s/z32s1341e1u840q/discussion1A%20slides%28week3%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/8x1kcfxcn17x5ms/week3.pdf?dl=0))([1C slides](https://www.dropbox.com/s/y69l9ewwbevhj1d/week3.pdf?dl=0))|||
-| 7 | 10/18 | VC dimension Cont. ([slides](https://www.dropbox.com/s/so2arz0shx3vdg2/Lecture7.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/ibwsahjlk4r4vce/Lecture7_annotated.pdf?dl=0))| Chapter 6, 28 | |
-| 8 | 10/20 | Nonuniform Learnability ([slides](https://www.dropbox.com/s/5o5hcwyx78nzl2m/Lecture7.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/ibwsahjlk4r4vce/Lecture7_annotated.pdf?dl=0)) | Chapter 7 | |
-||10/22| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/oihdcz1z3vs2mxa/CS_260_TA_Session%20week4.pdf?dl=0))([1B slides](https://www.dropbox.com/s/2uafin21tcbv3uu/week4.pdf?dl=0))([1C slides](https://www.dropbox.com/s/65nffmshlr5omyp/week4.pdf?dl=0))|||
-| 9 | 10/25 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/188xqq39z3twhy2/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/7mns5vnoyr6nszc/Lecture7_annotated.pdf?dl=0)) | Chapter 9 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
-| 10 | 10/27 | Nearest Neighbors ([slides](https://www.dropbox.com/s/luuiqfsdhoi9hwi/Lecture9.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/sw6jqenwoxbvwpb/Lecture9_annotated.pdf?dl=0) | Chapter 19 |  |
-|| 10/29 | TA Session Week 5 ([1A slides](https://www.dropbox.com/s/csdogq3bl2w3wvr/week5.pdf?dl=0))([1B slides](https://www.dropbox.com/s/mea55w6r56gd5xv/week5.pdf?dl=0))([1C slides](https://www.dropbox.com/s/rt74nchcvmdfty4/week5.pdf?dl=0))|||
-| 11 | 11/1 | Decision Trees ([slides](https://www.dropbox.com/s/82dlb50iky42ynu/Lecture10.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/kmpjvjnkvk2gpje/Lecture10_annotated.pdf?dl=0))| Chapter 18 | Project Proposal Due |
-| 12 | 11/3 | Boosting ([slides](https://www.dropbox.com/s/znevp3vo3glsp3p/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/bcdfih6y9i7ttbc/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
-||11/5| TA Session Week 6 (slides on CCLE-Week6) ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
-| | 11/8 | Midterm Exam | | |
-| 13 | 11/10 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
-||11/12| TA Session Week7 ([1A slides](https://www.dropbox.com/s/qyb7ojm2eekdwvg/week7.pdf?dl=0))([1B slides](https://www.dropbox.com/s/374l2cnxtruh9ln/week7.pdf?dl=0))([1C slides](https://www.dropbox.com/s/p4h8fubjyux064c/week7.pdf?dl=0))|||
-| 14 | 11/15 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
-| 15 | 11/17 | Regularization Stability ([slides](https://www.dropbox.com/s/yr9boothmeyn5bb/Lecture13.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/5jhfspytlh07q8r/Lecture13_annotated.pdf?dl=0)) | Chapter 13 |  |
-||11/19 | TA Session Week 8 ([1A slides](https://www.dropbox.com/s/blfxztrcy8kd8h5/week8.pdf?dl=0))([1B slides](https://www.dropbox.com/s/bijb4ev7gahc0li/week%208.pdf?dl=0))([1C slides](https://www.dropbox.com/s/kdzihhzxcw4tncg/week8.pdf?dl=0))|||
-| 16 | 11/22 | Support Vector Machines ([slides](https://www.dropbox.com/s/0zuw2gvug8os3ds/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/yw922y2ovx5zdub/Lecture14_annotated.pdf?dl=0))| Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
-| 17 | 11/24 | Kernel Methods ([slides](https://www.dropbox.com/s/8tmlz99cnmazz2g/Lecture15.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/9saumycn0blwbrz/Lecture15_annotated.pdf?dl=0))| Chapter 16 | |
-||11/26| Thanksgiving holidays|||
-|18|11/29| Multi-class Classification ([slides](https://www.dropbox.com/s/tyt9om7na3mkc91/Lecture16.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/ruxbk3hysswru2r/Lecture16_annotated.pdf?dl=0))|Chapter 17 ||
-| 19 | 12/1 | Clustering ([slides](https://www.dropbox.com/s/mlsh2uyez28h6k9/Lecture17.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/4pv4p3j32nnzw25/Lecture17_annotated.pdf?dl=0)) | Chapter 22| |
-||12/3| TA Session Week10 ([1A slides](https://www.dropbox.com/s/nujqsnib0j3j9pw/week10.pdf?dl=0))([1B slides](https://www.dropbox.com/s/th42birwuuiubl8/week101B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/cqqb2mwilpq300q/week10.pdf?dl=0)) | |  |
-| | 12/6 |  | | HW5 Due |
+| 1 | 9/26 | Introduction ([slides](https://www.dropbox.com/s/umb5cj22wktqxwq/Lecture1.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/qsx5ybu668zgsc3/Lecture1_annotated.pdf?dl=0)) | Chapter 1, 2.1 |  |
+| 2 | 9/28 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/oz92oe6w24x7q1a/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/0cc4m715l5pzjrr/Lecture2_annotated.pdf?dl=0)) | Chapter 2 | [HW1 Out](https://www.dropbox.com/s/g31899cgztwdfov/HW1.pdf?dl=0)|
+||9/30| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/xt9krm4s4qjy4h8/Slides%28discussion1A%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/520b4ot1espxcq0/week1%20discussion%201B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/sn67z1e46ab9zrt/week1.pdf?dl=0))|||
+| 3 | 10/3 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/b1x1c9sdse2ieam/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/kwj44enab7l6omi/Lecture3_annotated.pdf?dl=0))| Chapter 3 | |
+| 4 | 10/5 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/v6i1cay016gr2ju/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/a18ybz1o1g5zhgm/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 | HW1 Due, [HW2 Out](https://www.dropbox.com/s/uocco8rr9rcxilu/HW2.pdf?dl=0) |
+|| 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/5bp737g3g44hj8j/discussion1Aweek2.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/4o5pk11jo0wy3ev/week2.pdf?dl=0))|||
+| 5 | 10/10 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/188xqq39z3twhy2/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/7mns5vnoyr6nszc/Lecture7_annotated.pdf?dl=0)) | Chapter 9 | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
+| 6 | 10/12 | Boosting ([slides](https://www.dropbox.com/s/znevp3vo3glsp3p/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/bcdfih6y9i7ttbc/Lecture11_annotated.pdf?dl=0)) | Chapter 10 | |
+||10/14| TA Session Week 3 ([1A slides](https://www.dropbox.com/s/z32s1341e1u840q/discussion1A%20slides%28week3%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/8x1kcfxcn17x5ms/week3.pdf?dl=0))([1C slides](https://www.dropbox.com/s/y69l9ewwbevhj1d/week3.pdf?dl=0))|||
+| 7 | 10/17 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
+| 8 | 10/19 | AI4Database | Quest lecture | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
+||10/21| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/oihdcz1z3vs2mxa/CS_260_TA_Session%20week4.pdf?dl=0))([1B slides](https://www.dropbox.com/s/2uafin21tcbv3uu/week4.pdf?dl=0))([1C slides](https://www.dropbox.com/s/65nffmshlr5omyp/week4.pdf?dl=0))|||
+| 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 |  |
+| 10 | 10/26 | Support Vector Machines ([slides](https://www.dropbox.com/s/0zuw2gvug8os3ds/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/yw922y2ovx5zdub/Lecture14_annotated.pdf?dl=0))| Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+|| 10/28 | TA Session Week 5 ([1A slides](https://www.dropbox.com/s/csdogq3bl2w3wvr/week5.pdf?dl=0))([1B slides](https://www.dropbox.com/s/mea55w6r56gd5xv/week5.pdf?dl=0))([1C slides](https://www.dropbox.com/s/rt74nchcvmdfty4/week5.pdf?dl=0))|||
+|  | 10/31 | Midterm | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+| 11 | 11/2 | Multi-layer Perceptron I | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+||11/4| TA Session Week 6 (slides on CCLE-Week6) ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
+| 12 | 11/2 | Multi-layer Perceptron  II | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+| 13 | 11/7 | Covolutional Neural Networks I | | |
+| 14 | 11/9 | Covolutional Neural Networks II | | |
+||11/11| TA Session Week7 ([1A slides](https://www.dropbox.com/s/qyb7ojm2eekdwvg/week7.pdf?dl=0))([1B slides](https://www.dropbox.com/s/374l2cnxtruh9ln/week7.pdf?dl=0))([1C slides](https://www.dropbox.com/s/p4h8fubjyux064c/week7.pdf?dl=0))|||
+| 14 | 11/11 | Recurrent Neural Networks I | | |
+| 15 | 11/16 | Recurrent Neural Networks II | | |
+||11/18 | TA Session Week 8 ([1A slides](https://www.dropbox.com/s/blfxztrcy8kd8h5/week8.pdf?dl=0))([1B slides](https://www.dropbox.com/s/bijb4ev7gahc0li/week%208.pdf?dl=0))([1C slides](https://www.dropbox.com/s/kdzihhzxcw4tncg/week8.pdf?dl=0))|||
+|16  | 11/21 | Attention Mechanisms | | |
+||11/23| Thanksgiving holidays|||
+||12/2| TA Session Week10 ([1A slides](https://www.dropbox.com/s/nujqsnib0j3j9pw/week10.pdf?dl=0))([1B slides](https://www.dropbox.com/s/th42birwuuiubl8/week101B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/cqqb2mwilpq300q/week10.pdf?dl=0)) | |  |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report/Slides Due |
 
