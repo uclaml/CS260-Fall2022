@@ -6,8 +6,8 @@ This course introduces the foundational concepts and algorithms of machine learn
 Calculus, linear algebra, probability and statistics, and Python programming.
 
 ## Textbook
-Shai Shalev-Shwartz and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
-Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola, Dive into Deep Learning. 
+- Shai Shalev-Shwartz and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
+- Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola, Dive into Deep Learning. 
 
 ## Programming Language
 Python, Pytorch
@@ -25,9 +25,9 @@ Python, Pytorch
 - Office hours: 
     - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 382. 
     - The TA's office hour is 
-      - Zixiang Chen, Monday 10am-12pm.
-      - Jiafan He, Thursday 10am-12pm
-      - Lucas Tecot, Wednesday 10am-12pm
+      - Zixiang Chen, Monday 10am-12pm, Boelter 3256S-A
+      - Jiafan He, Thursday 10am-12pm, Boelter 3256S-F
+      - Lucas Tecot, Wednesday 10am-12pm, Boelter
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2022/](https://uclaml.github.io/CS260-Fall2022/)
 - Course Forum: [https://piazza.com/ucla/fall2022/cs260/home](piazza.com/ucla/fall2021/cs260/home)
