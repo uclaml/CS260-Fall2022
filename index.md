@@ -1,6 +1,6 @@
 
 ## Overview
-This course introduces the foundational concepts and algorithms of machine learning and deep learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) the ability to derive and analyze machine learning algorithms. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, boosting, stochastic gradient descent, support vector machines, multi-layer perceptron, convolutional neural networks, recurrent neural networks, attention mechanism. Slides and homework assignments will be released on Bruinlearn and this website. Homework solutions will only be released on Bruinlearn.
+This course introduces the foundational concepts and algorithms of machine learning and deep learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) morden machine learning techniques such as deep learning. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, boosting, stochastic gradient descent, support vector machines, multi-layer perceptron, convolutional neural networks, recurrent neural networks, attention mechanism. Slides and homework assignments will be released on Bruinlearn and this website. Homework solutions will only be released on Bruinlearn.
 
 ## Prerequisites
 Calculus, linear algebra, probability and statistics, and Python programming.
