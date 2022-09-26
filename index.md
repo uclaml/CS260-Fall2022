@@ -50,29 +50,29 @@ Grades will be computed based on the following factors:
 | 2 | 9/28 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/oz92oe6w24x7q1a/Lecture2.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/0cc4m715l5pzjrr/Lecture2_annotated.pdf?dl=0)) | Chapter 2 of [SSBD]| [HW1 Out](https://www.dropbox.com/s/g31899cgztwdfov/HW1.pdf?dl=0)|
 ||9/30| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/xt9krm4s4qjy4h8/Slides%28discussion1A%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/520b4ot1espxcq0/week1%20discussion%201B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/sn67z1e46ab9zrt/week1.pdf?dl=0))|||
 | 3 | 10/3 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/b1x1c9sdse2ieam/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/kwj44enab7l6omi/Lecture3_annotated.pdf?dl=0))| Chapter 3 of [SSBD] | |
-| 4 | 10/5 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/v6i1cay016gr2ju/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/a18ybz1o1g5zhgm/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 of [SSBD] | HW1 Due, [HW2 Out](https://www.dropbox.com/s/uocco8rr9rcxilu/HW2.pdf?dl=0) |
+| 4 | 10/5 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/v6i1cay016gr2ju/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/a18ybz1o1g5zhgm/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 of [SSBD] |  |
 || 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/5bp737g3g44hj8j/discussion1Aweek2.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/4o5pk11jo0wy3ev/week2.pdf?dl=0))|||
-| 5 | 10/10 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/188xqq39z3twhy2/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/7mns5vnoyr6nszc/Lecture7_annotated.pdf?dl=0)) | Chapter 9 of [SSBD] | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
+| 5 | 10/10 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/188xqq39z3twhy2/Lecture8.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/7mns5vnoyr6nszc/Lecture7_annotated.pdf?dl=0)) | Chapter 9 of [SSBD] | HW1 Due, [HW2 Out](https://www.dropbox.com/s/uocco8rr9rcxilu/HW2.pdf?dl=0) |
 | 6 | 10/12 | Boosting ([slides](https://www.dropbox.com/s/znevp3vo3glsp3p/Lecture11.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/bcdfih6y9i7ttbc/Lecture11_annotated.pdf?dl=0)) | Chapter 10 of [SSBD] | |
 ||10/14| TA Session Week 3 ([1A slides](https://www.dropbox.com/s/z32s1341e1u840q/discussion1A%20slides%28week3%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/8x1kcfxcn17x5ms/week3.pdf?dl=0))([1C slides](https://www.dropbox.com/s/y69l9ewwbevhj1d/week3.pdf?dl=0))|||
-| 7 | 10/17 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 of [SSBD] | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
-| 8 | 10/19 | AI4Database | Quest lecture | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
+| 7 | 10/17 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0))([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 of [SSBD] |  |
+| 8 | 10/19 | AI4Database | Quest lecture | HW2 Due, [HW3 Out](https://www.dropbox.com/s/rs1rtw7tf7lxwlk/homework3.zip?dl=0) |
 ||10/21| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/oihdcz1z3vs2mxa/CS_260_TA_Session%20week4.pdf?dl=0))([1B slides](https://www.dropbox.com/s/2uafin21tcbv3uu/week4.pdf?dl=0))([1C slides](https://www.dropbox.com/s/65nffmshlr5omyp/week4.pdf?dl=0))|||
-| 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 12, 14 of [SSBD] |  |
-| 10 | 10/26 | Support Vector Machines ([slides](https://www.dropbox.com/s/0zuw2gvug8os3ds/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/yw922y2ovx5zdub/Lecture14_annotated.pdf?dl=0))| Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+| 9 | 10/24 | Support Vector Machines ([slides](https://www.dropbox.com/s/5ljjnj12v04m90b/Lecture12.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/u93rssag5j3hbc5/Lecture12_annotated.pdf?dl=0)) | Chapter 15 of [SSBD] |  |
+| 10 | 10/26 | Kernel Methods ([slides](https://www.dropbox.com/s/0zuw2gvug8os3ds/Lecture14.pdf?dl=0)) ([slides annotated](https://www.dropbox.com/s/yw922y2ovx5zdub/Lecture14_annotated.pdf?dl=0))| Chapter 16 of [SSBD] | HW3 Due, [HW4 Out](https://www.dropbox.com/s/mh54q0q98nqu5v8/CS260_HW4.pdf?dl=0) |
 || 10/28 | TA Session Week 5 ([1A slides](https://www.dropbox.com/s/csdogq3bl2w3wvr/week5.pdf?dl=0))([1B slides](https://www.dropbox.com/s/mea55w6r56gd5xv/week5.pdf?dl=0))([1C slides](https://www.dropbox.com/s/rt74nchcvmdfty4/week5.pdf?dl=0))|||
-|  | 10/31 | Midterm | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
-| 11 | 11/2 | Multi-layer Perceptron I | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
-||11/4| TA Session Week 6 (slides on CCLE-Week6) ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
-| 12 | 11/7 | Multi-layer Perceptron  II | Chapter 15 | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
-| 13 | 11/9 | Covolutional Neural Networks I | | |
+|  | 10/31 | Midterm | Chapter 15 |  |
+| 11 | 11/2 | Multi-layer Perceptron I | Chapter 4 and 5 of [ZLLS] |  |
+||11/4| TA Session Week 6 ([1A slides](https://www.dropbox.com/home/CS260%20Fall%202021/21Fall-Discussion/1A?preview=week6.pdf))([1B slides](https://www.dropbox.com/s/up0whiz2o8m0jg1/week61B.pdf?dl=0)) |||
+| 12 | 11/7 | Multi-layer Perceptron  II | Chapter 4 and 5 of [ZLLS] | HW4 Due, [HW5 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0) |
+| 13 | 11/9 | Covolutional Neural Networks I | Chapter 7 of [ZLLS] | |
 ||11/11| TA Session Week7 ([1A slides](https://www.dropbox.com/s/qyb7ojm2eekdwvg/week7.pdf?dl=0))([1B slides](https://www.dropbox.com/s/374l2cnxtruh9ln/week7.pdf?dl=0))([1C slides](https://www.dropbox.com/s/p4h8fubjyux064c/week7.pdf?dl=0))|||
-| 14 | 11/14 | Covolutional Neural Networks II | | |
-| 15 | 11/16 | Recurrent Neural Networks I | | |
+| 14 | 11/14 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | |
+| 15 | 11/16 | Recurrent Neural Networks I | Chapter 9 of [ZLLS] | HW5 Due, [HW6 Out](https://www.dropbox.com/s/xq442mow3vybp96/HW5.pdf?dl=0)|
 ||11/18 | TA Session Week 8 ([1A slides](https://www.dropbox.com/s/blfxztrcy8kd8h5/week8.pdf?dl=0))([1B slides](https://www.dropbox.com/s/bijb4ev7gahc0li/week%208.pdf?dl=0))([1C slides](https://www.dropbox.com/s/kdzihhzxcw4tncg/week8.pdf?dl=0))|||
-| 16 | 11/21 | Recurrent Neural Networks II | | |
+| 16 | 11/21 | Recurrent Neural Networks II | Chapter 10 of [ZLLS] | |
 ||11/23| Thanksgiving holidays|||
-|17  | 11/28 | Attention Mechanisms | | |
+|17  | 11/28 | Attention Mechanisms | Chapter 11 of [ZLLS] | HW6 Due|
 ||12/2| TA Session Week10 ([1A slides](https://www.dropbox.com/s/nujqsnib0j3j9pw/week10.pdf?dl=0))([1B slides](https://www.dropbox.com/s/th42birwuuiubl8/week101B.pdf?dl=0))([1C slides](https://www.dropbox.com/s/cqqb2mwilpq300q/week10.pdf?dl=0)) | |  |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report/Slides Due |
