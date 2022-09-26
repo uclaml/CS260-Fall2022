@@ -1,6 +1,6 @@
 
 ## Overview
-This course introduces the foundational concepts and algorithms of machine learning and deep learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) morden machine learning techniques such as deep learning. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, boosting, stochastic gradient descent, support vector machines, multi-layer perceptron, convolutional neural networks, recurrent neural networks, attention mechanism. Slides and homework assignments will be released on Bruinlearn and this website. Homework solutions will only be released on Bruinlearn.
+This course introduces the foundational concepts and algorithms of machine learning and deep learning. The goal of this course is to endow the student with a) a solid understanding of the foundational concepts of machine learning, and b) morden machine learning techniques such as deep learning. Topics to be covered include empirical risk minimization, PAC learning, Agnostic PAC learning, perceptron, linear regression, boosting, stochastic gradient descent, support vector machines, multi-layer perceptron, convolutional neural networks, recurrent neural networks, attention mechanism. Slides and homework assignments will be released on this website. Homework solutions will only be released on Bruinlearn.
 
 ## Prerequisites
 Calculus, linear algebra, probability and statistics, and Python programming.
@@ -23,7 +23,7 @@ Python, Pytorch
   - Lucas Tecot, Section 1C (Email: lucastecot at gmail dot com)
    
 - Office hours: 
-    - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 382. 
+    - The instructor's office hour is Thursday 9:00am-10:00am, EVI 382. 
     - The TA's office hour is 
       - Zixiang Chen, Monday 10am-12pm, Boelter 3256S-A
       - Jiafan He, Thursday 10am-12pm, Boelter 3256S-F
