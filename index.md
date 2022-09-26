@@ -25,9 +25,9 @@ Python, Pytorch
 - Office hours: 
     - The instructor's office hour is Tuesday 10:00am-11:00am, EVI 382. 
     - The TA's office hour is 
-      - Zixiang Chen, TBD.
-      - Jiafan He, TBD
-      - Lucas Tecot, TBD
+      - Zixiang Chen, Monday 10am-12pm.
+      - Jiafan He, Thursday 10am-12pm
+      - Lucas Tecot, Wednesday 10am-12pm
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2022/](https://uclaml.github.io/CS260-Fall2022/)
 - Course Forum: [https://piazza.com/ucla/fall2022/cs260/home](piazza.com/ucla/fall2021/cs260/home)
