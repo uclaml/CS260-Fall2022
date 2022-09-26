@@ -10,7 +10,7 @@ Shai Shalev-Shwartz and Shai Ben-David. Understanding machine learning: From the
 Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola, Dive into Deep Learning. 
 
 ## Programming Language
-Python
+Python, Pytorch
 
 ## Logistics
 <!--University of California, Los Angeles  -->
