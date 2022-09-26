@@ -85,25 +85,22 @@ There will be about 5 homework assignments during the semester as we cover the c
 
 Unless otherwise indicated, you may talk to other students about the homework problems but each student must hand in their own answers and write their own code in the programming part. You also must indicate on each homework with whom you collaborated and cite any other sources you use including Internet sites. Students cannot use old solution sets for this class or solution manual to the textbook under any circumstances.
 
-Homework assignments will be submitted through Gradescope. You should have received an invite to Gradescope after you get enrolled in this class. Login via the invite, and submit the homework assignments on time. 
+Homework assignments will be submitted through Gradescope.
 
 Please submit your homework on time. Homework is worth full credit before the due date. It is worth zero credit after the due date.
 
 ## Exam
-There will be one midterm. The exam is a take-home, 24-hours, open-book exam. If you need a makeup exam, please email us by Nov 1st.
+There will be one in-class midterm on Oct 31.
 
 ## Quiz
 There will be 6 in-class pop-up quiz for the purpose of reviewing the newly learned concepts. The quizzes are closed book and closed notes. No electronic aids or cheat sheets are allowed. We will drop the lowest quiz score for you.
 
 ## Project
-Students are required to do a project in this class. The goal of the course project is to provide the students an opportunity to explore research directions in optimization or machine learning. Therefore, the project should be related to the course content. An expected project consists of
-• A novel and sound solution to an interesting problem
-• Comprehensive literature review and discussion
-• Thorough theoretical/experimental evaluation and comparisons with existing approaches
+Students are required to do a project in this class. The goal of the course project is to provide you an opportunity to either do machine learning research or solve a real-world problem using machine learning. 
 
 The best outcome of the project is a manuscript that is publishable in major machine learning conferences (COLT, ICML, NeurIPS, ICLR, AISTATS, UAI etc.) or journals (Journal of Machine Learning Research, Machine Learning).
 
-Instruction can be found [here](https://www.dropbox.com/s/iq6ctshs91ea3ok/Instruction.pdf?dl=0), and template for proposal and final report can be found [here](https://www.dropbox.com/s/9i5kjaibbw58ghl/template.zip?dl=0).
+<!---Instruction can be found [here](https://www.dropbox.com/s/iq6ctshs91ea3ok/Instruction.pdf?dl=0), and template for proposal and final report can be found [here](https://www.dropbox.com/s/9i5kjaibbw58ghl/template.zip?dl=0).
 
-Please refer to [syllabus](https://www.dropbox.com/s/89u56o3rzr54asv/syllabus_CS260.pdf?dl=0) for more details.
+Please refer to [syllabus](https://www.dropbox.com/s/89u56o3rzr54asv/syllabus_CS260.pdf?dl=0) for more details.--->
 
