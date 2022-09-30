@@ -27,7 +27,7 @@ Python, Pytorch
     - The TA's office hour is 
       - Zixiang Chen, Monday 10am-12pm, Boelter 3256S-A
       - Jiafan He, Thursday 10am-12pm, Boelter 3256S-F
-      - Lucas Tecot, Wednesday 10am-12pm, Boelter
+      - Lucas Tecot, Wednesday 10am-12pm, Boelter 3256S-F
   
 - Course Website: [https://uclaml.github.io/CS260-Fall2022/](https://uclaml.github.io/CS260-Fall2022/)
 - Course Forum: [https://piazza.com/ucla/fall2022/cs260/home](piazza.com/ucla/fall2021/cs260/home)
