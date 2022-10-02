@@ -46,9 +46,9 @@ Grades will be computed based on the following factors:
 
 | # | Date   |      Topics      |  Reading | Homework |
 |---- | ----------|-------------|------|---|
-| 1 | 9/26 | Introduction ([slides](https://www.dropbox.com/s/hf8zjv7q9dswz19/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 of [SSBD] |  |
-| 2 | 9/28 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/r43pmdqi9s93vet/Lecture2.pdf?dl=0)) | Chapter 2 of [SSBD]| [HW1 Out](https://www.dropbox.com/s/zcnzoqstfmdyx8q/hw1.pdf?dl=0) [Latex Template](https://www.overleaf.com/read/gspjpbqhbntv)|
-||9/30| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/qpmrrchon8f21bh/CS_260_TA_Session%20%282%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/thagoh4qyfoz01b/week1_he.pdf?dl=0))([1C slides](https://www.dropbox.com/s/580s5emo4lq75q8/disc_1_1c.pdf?dl=0))|||
+| 1 | 9/26 | Introduction ([slides](https://www.dropbox.com/s/uhmi8u3lziko1ow/Lecture1.pdf?dl=0)) | Chapter 1, 2.1 of [SSBD] |  |
+| 2 | 9/28 | Empirical Risk Minimization, PAC Learning ([slides](https://www.dropbox.com/s/74vrctrqbk77uve/Lecture2.pdf?dl=0)) | Chapter 2 of [SSBD]| [HW1 Out](https://www.dropbox.com/s/ifcxatzn1085ihq/hw1.pdf?dl=0) [Latex Template](https://www.overleaf.com/read/gspjpbqhbntv)|
+||9/30| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/qpmrrchon8f21bh/CS_260_TA_Session%20%282%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/lr2h7pevleiz09v/week1_he.pdf?dl=0))([1C slides](https://www.dropbox.com/s/bsw06tca8e60ioz/disc_1_1c.pdf?dl=0))|||
 | 3 | 10/3 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/b1x1c9sdse2ieam/Lecture3.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/kwj44enab7l6omi/Lecture3_annotated.pdf?dl=0))| Chapter 3 of [SSBD] | |
 | 4 | 10/5 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/v6i1cay016gr2ju/Lecture5.pdf?dl=0))([slides_annotated](https://www.dropbox.com/s/a18ybz1o1g5zhgm/Lecture5_annotated.pdf?dl=0)) | Chapter 5, 11 of [SSBD] |  |
 || 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/5bp737g3g44hj8j/discussion1Aweek2.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/4o5pk11jo0wy3ev/week2.pdf?dl=0))|||
