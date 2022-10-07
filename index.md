@@ -51,7 +51,7 @@ Grades will be computed based on the following factors:
 ||9/30| TA Session Week 1 ([1A slides](https://www.dropbox.com/s/1aplmmjnxtpfw30/discussion_1ar.pdf?dl=0))([1B slides](https://www.dropbox.com/s/j15jasf1utzooyi/disc_1_1b.pdf?dl=0))([1C slides](https://www.dropbox.com/s/nc89ykwavsq3fe6/disc_1_1c.pdf?dl=0))|||
 | 3 | 10/3 | Agnostic PAC Learning ([slides](https://www.dropbox.com/s/yhg3b9v5itnvqhw/Lecture3.pdf?dl=0))| Chapter 3, 4 of [SSBD] | |
 | 4 | 10/5 | Bias-Complexity Tradeoff ([slides](https://www.dropbox.com/s/im0uev900nnb2li/Lecture4.pdf?dl=0)) | Chapter 5, 11 of [SSBD] |  |
-|| 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/5bp737g3g44hj8j/discussion1Aweek2.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/15ein6fkurprv7w/disc2_1c.pdf?dl=0))|||
+|| 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/gm7a8wusu32ipct/CS_260_TA_Session%20%284%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/jiefamzvw022t90/week2.pdf?dl=0))([1C slides](https://www.dropbox.com/s/15ein6fkurprv7w/disc2_1c.pdf?dl=0))|||
 | 5 | 10/10 | Perceptron/Linear regression  | Chapter 9 of [SSBD] | HW1 Due, [HW2 Out] |
 | 6 | 10/12 | Boosting | Chapter 10 of [SSBD] | |
 ||10/14| TA Session Week 3|||
