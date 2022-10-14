@@ -54,7 +54,7 @@ Grades will be computed based on the following factors:
 || 10/7 | TA Session Week 2 ([1A slides](https://www.dropbox.com/s/gm7a8wusu32ipct/CS_260_TA_Session%20%284%29.pdf?dl=0))([1B slides](https://www.dropbox.com/s/gnbfcdyhl9swr8r/week2_b.pdf?dl=0))([1C slides](https://www.dropbox.com/s/15ein6fkurprv7w/disc2_1c.pdf?dl=0))|||
 | 5 | 10/10 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/fk608vjtzx58feg/Lecture5.pdf?dl=0))  | Chapter 9, 19 of [SSBD] | HW1 Due,  |
 | 6 | 10/12 | Boosting ([slides](https://www.dropbox.com/s/elim4msoknhd386/Lecture6.pdf?dl=0)) | Chapter 10 of [SSBD] | [HW2 Out](https://www.dropbox.com/s/3mlp3yfdqj8m9uo/hw2.pdf?dl=0)|
-||10/14| TA Session Week 3([1B slides](https://www.dropbox.com/s/vxd4msg5n3al9hx/week3_he.pdf?dl=0))|||
+||10/14| TA Session Week 3([1B slides](https://www.dropbox.com/s/vxd4msg5n3al9hx/week3_he.pdf?dl=0))([1C slides](https://www.dropbox.com/s/hhyrvqi46jb9m3k/disc3_1c.pdf?dl=0))|||
 | 7 | 10/17 | Convex Learning and SGD | Chapter 12, 14 of [SSBD] |  |
 | 8 | 10/19 | AI4Database | Guest lecture |  |
 ||10/21| TA Session Week 4 ||HW2 Due, [HW3 Out]|
