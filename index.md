@@ -72,7 +72,7 @@ Grades will be computed based on the following factors:
 ||11/18 | TA Session Week 8 |||
 | 16 | 11/21 | Recurrent Neural Networks II | Chapter 10 of [ZLLS] | |
 | 17 |11/23| Attention Mechanisms|Chapter 11 of [ZLLS]||
-| | 11/28 | Canceled Due to NeurIPS |  | HW6 Due|
+| | 11/28 | Guest lecture TBD |  | HW6 Due|
 | | 11/30 | Canceled Due to NeurIPS |  | |
 ||12/2| TA Session Week10  | |  |
 | | 12/8 | Final Project Presentation | |  |
