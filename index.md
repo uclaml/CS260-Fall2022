@@ -55,26 +55,26 @@ Grades will be computed based on the following factors:
 | 5 | 10/10 | Perceptron/Linear regression ([slides](https://www.dropbox.com/s/fk608vjtzx58feg/Lecture5.pdf?dl=0))  | Chapter 9, 19 of [SSBD] | HW1 Due,  |
 | 6 | 10/12 | Boosting ([slides](https://www.dropbox.com/s/elim4msoknhd386/Lecture6.pdf?dl=0)) | Chapter 10 of [SSBD] | [HW2 Out](https://www.dropbox.com/s/3mlp3yfdqj8m9uo/hw2.pdf?dl=0)|
 ||10/14| TA Session Week 3([1A slides](https://www.dropbox.com/s/sff2n90pqod5sy4/Discussion1Aweek3.pdf?dl=0))([1B slides](https://www.dropbox.com/s/znln3x9mhet0yra/CS_260_TA_Session_2021_fall%20%287%29.pdf?dl=0))([1C slides](https://www.dropbox.com/s/hhyrvqi46jb9m3k/disc3_1c.pdf?dl=0))|||
-| 7 | 10/17 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0)) | Chapter 12, 14 of [SSBD] |  |
+| 7 | 10/17 | Boosting, Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0)) | Chapter 12, 14 of [SSBD] |  |
 | 8 | 10/19 | AI4Database | Guest lecture |  |
-||10/21| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/qffpy5jr4jqlvg0/week4_1A.pdf?dl=0))([1B slides](https://www.dropbox.com/s/oopia2cp186pgb9/week4_1b.pdf?dl=0))([1C slides](https://www.dropbox.com/s/0c2bfadpht4j70n/disc4_1c.pdf?dl=0))||HW2 Due, [HW3 Out](https://www.dropbox.com/s/xghwr3jw0h2sqmj/HW3.pdf?dl=0)| 
-| 9 | 10/24 | Support Vector Machines  | Chapter 15 of [SSBD] |  |
-| 10 | 10/26 | Kernel Methods | Chapter 16 of [SSBD] |  |
-|| 10/28 | TA Session Week 5||HW3 Due, [HW4 Out]|
-|  | 10/31 | Midterm | Chapter 15 |  |
-| 11 | 11/2 | Multi-layer Perceptron I | Chapter 4 and 5 of [ZLLS] |  |
+||10/21| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/qffpy5jr4jqlvg0/week4_1A.pdf?dl=0))([1B slides](https://www.dropbox.com/s/oopia2cp186pgb9/week4_1b.pdf?dl=0))([1C slides](https://www.dropbox.com/s/0c2bfadpht4j70n/disc4_1c.pdf?dl=0))||HW2 Due, | 
+| 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0))  | Chapter 15 of [SSBD] | [HW3 Out](https://www.dropbox.com/s/xghwr3jw0h2sqmj/HW3.pdf?dl=0) |
+| 10 | 10/26 | Support Vector Machines | Chapter 16 of [SSBD] |  |
+|| 10/28 | TA Session Week 5|||
+| 11 | 10/31 | Kernel Methods | Chapter 15 |  |
+| 12 | 11/2 | Multi-layer Perceptron I | Chapter 4 and 5 of [ZLLS] | HW3 Due, [HW4 Out] |
 ||11/4| TA Session Week 6|||
-| 12 | 11/7 | Multi-layer Perceptron  II | Chapter 4 and 5 of [ZLLS] | HW4 Due, [HW5 Out] |
-| 13 | 11/9 | Covolutional Neural Networks I | Chapter 7 of [ZLLS] | |
+|  | 11/7 | Midterm Exam |  |  |
+| 13 | 11/9 | Multi-layer Perceptron  II | Chapter 4 and 5 of [ZLLS] | |
 ||11/11| TA Session Week7 |||
-| 14 | 11/14 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | |
-| 15 | 11/16 | Recurrent Neural Networks I | Chapter 9 of [ZLLS] | HW5 Due, [HW6 Out]|
+| 14 | 11/14 | Covolutional Neural Networks I | Chapter 7 of [ZLLS] | HW4 Due, [HW5 Out]|
+| 15 | 11/16 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | |
 ||11/18 | TA Session Week 8 |||
-| 16 | 11/21 | Recurrent Neural Networks II | Chapter 10 of [ZLLS] | |
-| 17 |11/23| Attention Mechanisms|Chapter 11 of [ZLLS]||
-| | 11/28 | Guest lecture TBD |  | HW6 Due|
-| | 11/30 | Canceled Due to NeurIPS |  | |
-||12/2| TA Session Week10  | |  |
+| 16 | 11/21 | Recurrent Neural Networks I | Chapter 9 of [ZLLS] | |
+| 17 |11/23| Recurrent Neural Networks II|Chapter 10 of [ZLLS]|HW5 Due, [HW6 Out]|
+| | 11/28 | Canceled Due to NeurIPS |  | |
+| 18| 11/30 | Attention Mechanisms | Chapter 11 of [ZLLS] | |
+||12/2| TA Session Week10  | | HW6 Due |
 | | 12/8 | Final Project Presentation | |  |
 | | 12/12 | | | Project Report/Slides Due |
 
