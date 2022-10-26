@@ -58,10 +58,10 @@ Grades will be computed based on the following factors:
 | 7 | 10/17 | Boosting, Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0)) | Chapter 12, 14 of [SSBD] |  |
 | 8 | 10/19 | AI4Database | Guest lecture |  |
 ||10/21| TA Session Week 4 ([1A slides](https://www.dropbox.com/s/qffpy5jr4jqlvg0/week4_1A.pdf?dl=0))([1B slides](https://www.dropbox.com/s/oopia2cp186pgb9/week4_1b.pdf?dl=0))([1C slides](https://www.dropbox.com/s/0c2bfadpht4j70n/disc4_1c.pdf?dl=0))||HW2 Due, | 
-| 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0))  | Chapter 15 of [SSBD] | [HW3 Out](https://www.dropbox.com/s/xghwr3jw0h2sqmj/HW3.pdf?dl=0) |
-| 10 | 10/26 | Support Vector Machines | Chapter 16 of [SSBD] |  |
+| 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0))  | Chapter 12, 14 of [SSBD] | [HW3 Out](https://www.dropbox.com/s/xghwr3jw0h2sqmj/HW3.pdf?dl=0) |
+| 10 | 10/26 | Regularization and Stability, Support Vector Machines ([slides](https://www.dropbox.com/s/jl3iffvjlhmmexh/Lecture8.pdf?dl=0))|  Chapter 13 and 15 of [SSBD] |  |
 || 10/28 | TA Session Week 5|||
-| 11 | 10/31 | Kernel Methods | Chapter 15 |  |
+| 11 | 10/31 | Kernel Methods | Chapter 16 of [SSBD] |  |
 | 12 | 11/2 | Multi-layer Perceptron I | Chapter 4 and 5 of [ZLLS] | HW3 Due, [HW4 Out] |
 ||11/4| TA Session Week 6|||
 |  | 11/7 | Midterm Exam |  |  |
