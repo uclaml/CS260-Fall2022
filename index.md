@@ -61,7 +61,7 @@ Grades will be computed based on the following factors:
 | 9 | 10/24 | Convex Learning and SGD ([slides](https://www.dropbox.com/s/8idtj5ksrj06rtc/Lecture7.pdf?dl=0))  | Chapter 12, 14 of [SSBD] | [HW3 Out](https://www.dropbox.com/s/xghwr3jw0h2sqmj/HW3.pdf?dl=0) |
 | 10 | 10/26 | Regularization and Stability, Support Vector Machines ([slides](https://www.dropbox.com/s/jl3iffvjlhmmexh/Lecture8.pdf?dl=0))|  Chapter 13 and 15 of [SSBD] |  |
 || 10/28 | TA Session Week 5 ([1A slides](https://www.dropbox.com/s/wlglz1i9ellml54/Week51A.pdf?dl=0))([1B slides](https://www.dropbox.com/s/xotkk5h6q905am7/week5_1b.pdf?dl=0)) ([1C slides](https://www.dropbox.com/s/f4v2s599fet1enn/disc5_1c.pdf?dl=0))|||
-| 11 | 10/31 | Kernel Methods | Chapter 16 of [SSBD] |  |
+| 11 | 10/31 | Kernel Methods ([slides](https://www.dropbox.com/s/l6dbrjl7jha7bzs/Lecture9.pdf?dl=0)) | Chapter 16 of [SSBD] |  |
 | 12 | 11/2 | Multi-layer Perceptron I | Chapter 4 and 5 of [ZLLS] | HW3 Due, [HW4 Out] |
 ||11/4| TA Session Week 6|||
 |  | 11/7 | Midterm Exam |  |  |
