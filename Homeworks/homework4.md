@@ -3,6 +3,8 @@
 
 Starter code containing the Colab notebooks can be downloaded [here](https://www.dropbox.com/s/zu604yldf37q7ng/assignment4.zip?dl=0). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
 
+Due Nov 16th before class (1:59 PM).
+
 ## Setup
 
 This homework will be done in [Google Collaboratory](https://colab.research.google.com/). Google Colaboratory is basically Jupyter notebook on Google Drive. It runs entirely in the cloud and comes preinstalled with many useful packages (PyTorch, Tensorflow, etc). Colab also has free access to hardware accelerators like GPUs and TPUs which will be useful for future homeworks / your projects. 
