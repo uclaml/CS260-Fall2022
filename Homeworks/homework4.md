@@ -1,7 +1,7 @@
 
 # Homework 4
 
-Starter code containing the Colab notebooks can be downloaded here. Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
+Starter code containing the Colab notebooks can be downloaded [here](https://www.dropbox.com/s/zu604yldf37q7ng/assignment4.zip?dl=0). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
 
 ## Setup
 
