@@ -50,9 +50,9 @@ This notebook/script will:
 
 `### Done! Please submit a4_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
 
-2. Submit the PDF and the zip file to Gradescope.
+2. Submit the PDF to Gradescope and the zip file to Bruinlearn.
 
-Remember to download `a4_code_submission.zip` and `a4_inline_submission.pdf` locally before submitting to Gradescope.
+Remember to download `a4_code_submission.zip` and `a4_inline_submission.pdf` locally before submitting.
 
 ## Acknowledgment
 The material in this homework is adapted from Prof. Fei-Fei Li's offering of [CS 231n](http://cs231n.stanford.edu/).
