@@ -67,8 +67,8 @@ Grades will be computed based on the following factors:
 |  | 11/7 | Midterm Exam |  | [HW4 Out](https://github.com/uclaml/CS260-Fall2022/blob/main/Homeworks/homework4.md) |
 | 13 | 11/9 | Multi-layer Perceptron  II ([slides](https://www.dropbox.com/s/e6kko3xhxpvedz5/Lecture11.pdf?dl=0)) | Chapter 4 and 5 of [ZLLS] | |
 ||11/11| TA Session Week7 |||
-| 14 | 11/14 | Covolutional Neural Networks I | Chapter 7 of [ZLLS] | [HW5 Out]|
-| 15 | 11/16 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | HW4 Due |
+| 14 | 11/14 | Covolutional Neural Networks I | Chapter 7 of [ZLLS] | |
+| 15 | 11/16 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | HW4 Due [HW5 Out] |
 ||11/18 | TA Session Week 8 |||
 | 16 | 11/21 | Recurrent Neural Networks I | Chapter 9 of [ZLLS] | |
 | 17 |11/23| Recurrent Neural Networks II|Chapter 10 of [ZLLS]|HW5 Due, [HW6 Out]|
