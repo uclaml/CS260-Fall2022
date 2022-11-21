@@ -30,7 +30,7 @@ The notebook `two_layer_net.ipynb` will walk you through implementing a two-laye
 
 ## Q2 : Pooling Layer in layers.py
 
-## Q3 : Assembles in cnn.py
+## Q3 : Loss in cnn.py 
 
 ## Q4 : Batchnomrlization Layer in layers.py
 
