@@ -68,7 +68,7 @@ Grades will be computed based on the following factors:
 | 13 | 11/9 | Multi-layer Perceptron  II ([slides](https://www.dropbox.com/s/e6kko3xhxpvedz5/Lecture11.pdf?dl=0)) | Chapter 4 and 5 of [ZLLS] | |
 ||11/11| TA Session Week7 |||
 | 14 | 11/14 | Covolutional Neural Networks I ([slides](https://www.dropbox.com/s/6knvi8o4jomvs3q/Lecture12.pdf?dl=0)) | Chapter 7 of [ZLLS] | |
-| 15 | 11/16 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | HW4 Due [HW5 Out] |
+| 15 | 11/16 | Covolutional Neural Networks II | Chapter 8 of [ZLLS] | HW4 Due [HW5 Out](https://github.com/uclaml/CS260-Fall2022/blob/main/Homeworks/homework5.md) |
 ||11/18 | TA Session Week 8 ([1B slides](https://www.dropbox.com/s/nwpdc64jbbkwf6u/week8_1b.pdf?dl=0))|||
 | 16 | 11/21 | Recurrent Neural Networks I | Chapter 9 of [ZLLS] | |
 | 17 |11/23| Recurrent Neural Networks II|Chapter 10 of [ZLLS]|HW5 Due, [HW6 Out]|
