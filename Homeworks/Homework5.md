@@ -50,7 +50,7 @@ This notebook/script will:
 - Convert all notebooks into a single PDF file called `a5_inline_submission.pdf`.
 - If your submission for this step was successful, you should see the following display message:
 
-`### Done! Please submit a4_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
+`### Done! Please submit a5_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
 
 2. Submit the PDF to Gradescope and the zip file to Bruinlearn.
 
