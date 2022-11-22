@@ -46,15 +46,15 @@ Once you have completed all the notebooks and filled out the necessary code, do 
 
 This notebook/script will:
 
-- Generate a zip file of your code (`.py` and `.ipynb`) called `a4_code_submission.zip`.
-- Convert all notebooks into a single PDF file called `a4_inline_submission.pdf`.
+- Generate a zip file of your code (`.py` and `.ipynb`) called `a5_code_submission.zip`.
+- Convert all notebooks into a single PDF file called `a5_inline_submission.pdf`.
 - If your submission for this step was successful, you should see the following display message:
 
 `### Done! Please submit a4_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
 
 2. Submit the PDF to Gradescope and the zip file to Bruinlearn.
 
-Remember to download `a4_code_submission.zip` and `a4_inline_submission.pdf` locally before submitting.
+Remember to download `a5_code_submission.zip` and `a5_inline_submission.pdf` locally before submitting.
 
 ## Acknowledgment
 The material in this homework is adapted from Prof. Fei-Fei Li's offering of [CS 231n](http://cs231n.stanford.edu/).
