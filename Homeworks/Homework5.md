@@ -24,7 +24,7 @@ If you wish to use a GPU, click `Runtime -> Change runtime type -> Hardware Acce
 
 Although we highly recommend working in Colab, you are free to work on your local hardware if you choose. Instructions to help you do so can be found [here](https://cs231n.github.io/setup-instructions/#working-locally-on-your-machine).
 
-The notebook `two_layer_net.ipynb` will walk you through implementing a two-layer neural network classifier. Please open it in Colab and follow the instructions there.
+The notebook `ConvolutionalNetworks.ipynb` will walk you through implementing a ConvolutionalNetworks classifier. Please open it in Colab and follow the instructions there.
 
 ## Q1 : Convolution Layer in layers.py
 
