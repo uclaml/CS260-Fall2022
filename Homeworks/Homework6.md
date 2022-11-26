@@ -1,7 +1,7 @@
 
-# Homework 5
+# Homework 6
 
-Starter code containing the Colab notebooks can be downloaded [here](https://www.dropbox.com/s/d9y5rdujx4add7t/hw_5.zip?dl=0). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
+Starter code containing the Colab notebooks can be downloaded [here]([https://www.dropbox.com/s/d9y5rdujx4add7t/hw_5.zip?dl=0](https://www.dropbox.com/s/ltvp0cpf7k8iq2m/hw6.zip?dl=0)). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
 
 Due 11 30th before class (1:59 PM).
 
@@ -24,18 +24,12 @@ If you wish to use a GPU, click `Runtime -> Change runtime type -> Hardware Acce
 
 Although we highly recommend working in Colab, you are free to work on your local hardware if you choose. Instructions to help you do so can be found [here](https://cs231n.github.io/setup-instructions/#working-locally-on-your-machine).
 
-The notebook `ConvolutionalNetworks.ipynb` will walk you through implementing a ConvolutionalNetworks classifier. Please open it in Colab and follow the instructions there.
-
-## Q1 : Convolution Layer in layers.py
-
-## Q2 : Pooling Layer in layers.py
-
-## Q3 : Loss in cnn.py 
-
-## Q4 : Batchnomrlization Layer in layers.py
-
-
 Once you have completed "ConvolutionalNetworks" notebooks except `collect_submission.ipynb`, proceed to the submission instructions.
+
+## Question : Image Captioning with Vanilla RNNs 
+
+The notebook `RNN_Captioning.ipynb` will walk you through the implementation of vanilla recurrent neural networks and apply them to image captioning on COCO.
+
 ## Submitting Your Work
 
 **Make sure that the submitted notebooks have been run and the cell outputs are visible before following these steps.**
@@ -46,15 +40,15 @@ Once you have completed all the notebooks and filled out the necessary code, do 
 
 This notebook/script will:
 
-- Generate a zip file of your code (`.py` and `.ipynb`) called `a5_code_submission.zip`.
-- Convert all notebooks into a single PDF file called `a5_inline_submission.pdf`.
+- Generate a zip file of your code (`.py` and `.ipynb`) called `a6_code_submission.zip`.
+- Convert all notebooks into a single PDF file called `a6_inline_submission.pdf`.
 - If your submission for this step was successful, you should see the following display message:
 
-`### Done! Please submit a5_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
+`### Done! Please submit a6_code_submission.zip and a4_inline_submission.pdf to Gradescope. ###`
 
 2. Submit the PDF to Gradescope and the zip file to Bruinlearn.
 
-Remember to download `a5_code_submission.zip` and `a5_inline_submission.pdf` locally before submitting.
+Remember to download `a6_code_submission.zip` and `a6_inline_submission.pdf` locally before submitting.
 
 ## Acknowledgment
 The material in this homework is adapted from Prof. Fei-Fei Li's offering of [CS 231n](http://cs231n.stanford.edu/).
