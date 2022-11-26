@@ -1,9 +1,9 @@
 
 # Homework 6
 
-Starter code containing the Colab notebooks can be downloaded [here]([https://www.dropbox.com/s/d9y5rdujx4add7t/hw_5.zip?dl=0](https://www.dropbox.com/s/ltvp0cpf7k8iq2m/hw6.zip?dl=0)). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
+Starter code containing the Colab notebooks can be downloaded [here]([https://www.dropbox.com/s/ltvp0cpf7k8iq2m/hw6.zip?dl=0]). Please carefully read the setup + submission instructions before getting started + when you are ready to submit respectively.
 
-Due 11 30th before class (1:59 PM).
+Due Dec 7th (11:59 PM).
 
 ## Setup
 
