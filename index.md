@@ -74,7 +74,7 @@ Grades will be computed based on the following factors:
 | 16 | 11/21 | Recurrent Neural Networks I ([slides](https://www.dropbox.com/s/kwk7frktn9wo0ti/Lecture13.pdf?dl=0)) | Chapter 9 of [ZLLS] | |
 | 17 |11/23| Recurrent Neural Networks II ([slides](https://www.dropbox.com/s/usogg9r9dzu36mk/Lecture14.pdf?dl=0)) |Chapter 10 of [ZLLS]|HW5 Due, [HW6 Out](https://github.com/uclaml/CS260-Fall2022/blob/main/Homeworks/Homework6.md)|
 | | 11/28 | Canceled Due to NeurIPS |  | |
-| 18| 11/30 | Attention Mechanisms ([slides]()） | Chapter 11 of [ZLLS] | |
+| 18| 11/30 | Attention Mechanisms ([slides](https://www.dropbox.com/s/rbmmhu5dj77acsw/Lecture15.pdf?dl=0)） | Chapter 11 of [ZLLS] | |
 ||12/2| TA Session Week10  | | |
 ||12/7|  | | HW6 Due |
 | | 12/8 | Final Project Presentation | |  |
