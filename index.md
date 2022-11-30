@@ -8,6 +8,7 @@ Calculus, linear algebra, probability and statistics, and Python programming.
 ## Textbook
 - [SSBD] Shai Shalev-Shwartz and Shai Ben-David. Understanding machine learning: From theory to algorithms. Cambridge University Press, 2014.
 - [ZLLS] Aston Zhang, Zachary C. Lipton, Mu Li, Alexander J. Smola, Dive into Deep Learning. 
+- Feifei Li, Jiajun Wu, Ruohan Gao, CS231n: Deep Learning for Computer Vision [course website](http://cs231n.stanford.edu)
 
 ## Programming Language
 Python, Pytorch
