@@ -78,7 +78,7 @@ Grades will be computed based on the following factors:
 ||12/2| TA Session Week10  ([slides](https://www.dropbox.com/s/5ijag0ellswsnmp/discussion_10.pdf?dl=0)）  | | |
 ||12/7|  | | HW6 Due |
 | | 12/8 | Final Project Presentation | |  |
-| | 12/12 | | | Project Report/Slides Due |
+| | 12/11 | | | Project Report/Slides Due |
 
 ## Academic Integrity Policy
 Students are encouraged to read the [UCLA Student Conduct Code](https://www.deanofstudents.ucla.edu/Individual-Student-Code) for Academic Integrity. 
